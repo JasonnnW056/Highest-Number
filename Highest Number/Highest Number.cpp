@@ -46,7 +46,7 @@ int main()
 	//	cout << i.second << endl;
 	//}
 
-	cout<<"lala"<<endl;
+	cout<<"lalaland"<<endl;
 	cout << "The highest number is " << highestoccurs.first;
 	cout << " with the number of occurances is " << highestoccurs.second;
 	//cout << highestnumber << endl;
